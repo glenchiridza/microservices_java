@@ -6,9 +6,14 @@
     <groupId>org.glenchiridza</groupId>
     <artifactId>glenconnectservices</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>glenconnectservices</name>
     <description>glenconnectservices</description>
     <url>glenchiridza.web.app</url>
+    <modules>
+        <module>client</module>
+    </modules>
+
     <properties>
         <java.version>17</java.version>
         <maven.compiler.source>17</maven.compiler.source>
