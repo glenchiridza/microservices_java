@@ -8,7 +8,7 @@ spring:
   datasource:
     username: root
     url: jdbc:postgresql://localhost:5432/client
-    password: ostentatious
+    password: password
     driverClassName: org.postgresql.Driver
 
   jpa:

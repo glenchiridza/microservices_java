@@ -23,4 +23,6 @@ public class Client {
     private String email;
     private String phone;
     private String address;
+
+    private Boolean isDeliveryReceived = false;
 }
