@@ -12,6 +12,7 @@
     <url>glenchiridza.web.app</url>
     <modules>
         <module>client</module>
+        <module>delivery</module>
     </modules>
 
 

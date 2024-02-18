@@ -1,12 +1,13 @@
-package org.glenchiridza.client.main;
+package org.glenchiridza.delivery;
 
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClientApplication {
+public class DeliveryApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(ClientApplication.class,args);
+        SpringApplication.run(DeliveryApplication.class,args);
     }
 }
